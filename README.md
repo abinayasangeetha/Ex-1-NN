@@ -1,7 +1,6 @@
 <H3>NAME: ABINAYA S</H3>
 <H3>REG NO: 212222230002</H3>
 <H3>EX. NO.1</H3>
-
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
@@ -95,18 +94,25 @@ print("\nLenght of X_test ",len(X_test))
 ## OUTPUT:
 ### Missing Values:
 
+![nnop1](https://github.com/abinayasangeetha/Ex-1-NN/assets/119393675/84806956-319b-46b3-a903-3f7169e1a5fe)
 
 
 ### Duplicates:
+![nnop2](https://github.com/abinayasangeetha/Ex-1-NN/assets/119393675/573a4f51-c7ea-49b8-9f79-d816657f3325)
 
 ### Outliers
+![nnop3](https://github.com/abinayasangeetha/Ex-1-NN/assets/119393675/9487fb24-02a5-4bf7-aac6-f1d3d9fff071)
 
 
 ### Normalized dataset:
+![nnop4](https://github.com/abinayasangeetha/Ex-1-NN/assets/119393675/532663fb-a7ee-4bbf-a15c-b6f4af0a16f3)
 
 ### Input and Output
+![nnop5](https://github.com/abinayasangeetha/Ex-1-NN/assets/119393675/0d376d0c-a24c-4334-ab39-0baf135c530e)
 
 ### Training and Testing data:
+![nnop6](https://github.com/abinayasangeetha/Ex-1-NN/assets/119393675/89d83afe-f3d5-40cd-9839-c368e0520776)
+
 
 
 
