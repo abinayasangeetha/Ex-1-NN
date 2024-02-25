@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>NAME: ABINAYA S</H3>
+<H3>REG NO: 212222230002</H3>
 <H3>EX. NO.1</H3>
 <H3>DATE</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
@@ -37,6 +37,7 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
+```
 #import libraries
 
 import pandas as pd
@@ -89,11 +90,11 @@ print("\nLenght of X_train ",len(X_train))
 print("\nX_test\n")
 print(X_test)
 print("\nLenght of X_test ",len(X_test))
-
+```
 
 ## OUTPUT:
 ### Missing Values:
-![Uploading nnop1.png…]()
+
 
 ### Duplicates:
 
