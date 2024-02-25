@@ -1,7 +1,7 @@
 <H3>NAME: ABINAYA S</H3>
 <H3>REG NO: 212222230002</H3>
 <H3>EX. NO.1</H3>
-<H3>DATE</H3>
+
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
@@ -94,6 +94,7 @@ print("\nLenght of X_test ",len(X_test))
 
 ## OUTPUT:
 ### Missing Values:
+
 
 
 ### Duplicates:
